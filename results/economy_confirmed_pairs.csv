@@ -1,0 +1,4 @@
+candidate_leader,candidate_follower,lag,gap_days,pearson_r,q_bh_all_tests
+Ittefaq,Kaler Kontho,1,1,0.2213786400500254,1.3261408768581044e-22
+Somoyer Alo,Jugantor,-1,1,0.1582366583598847,0.0139620747532917
+Somoyer Alo,Kaler Kontho,-1,1,0.5401556948695101,1.3795936895564144e-26

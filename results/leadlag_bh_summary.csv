@@ -1,0 +1,6 @@
+category,n_pairs,n_best_zero_lag,n_positive_nonzero_selected,n_bh_confirmed_positive_lead
+Economy,10,6,3,3
+International,6,5,0,0
+National,15,10,0,0
+Overall,15,11,0,0
+Sports,13,12,0,0
